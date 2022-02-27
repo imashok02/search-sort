@@ -49,3 +49,15 @@
  #### Stack:
  
 **Node.js, Express**
+
+#### To Start
+```
+npm install
+node start
+
+To Run test
+
+npm test
+
+
+```
